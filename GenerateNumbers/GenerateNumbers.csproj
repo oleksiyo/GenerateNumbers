@@ -39,8 +39,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="GenerateNumbers.cs" />
-    <Compile Include="IGenerateNumbers.cs" />
+    <Compile Include="GenerateDigits.cs" />
+    <Compile Include="IGenerateDigits.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

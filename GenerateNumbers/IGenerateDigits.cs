@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace GenerateNumbers
 {
-   public interface IGenerateNumbers
+   public interface IGenerateDigits
     {
         List<int> Generate(int start, int end);
     }
